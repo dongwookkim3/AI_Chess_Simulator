@@ -1,0 +1,7 @@
+# ninja log v6
+0	27	1721579569352224386	build.ninja	526961e3a54ba99c
+1	5	1721579564339164527	/home/dongwook/CLionProjects/AI Chess Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	98905837a95c976f
+6	441	1721579564344164587	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	d4c570995c81740f
+5	454	1721579564343164575	src/CMakeFiles/AI_Chess_Simulator.dir/Resource/Hello.cpp.o	1f65a88130c2cc7
+454	522	1721579564792170002	src/AI_Chess_Simulator	6748b1fc96af7900
+1	6	1721579571696251839	/home/dongwook/CLionProjects/AI Chess Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	98905837a95c976f

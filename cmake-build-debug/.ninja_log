@@ -1,0 +1,24 @@
+# ninja log v6
+1	18	1724985849971929362	build.ninja	40c6838f8601ad04
+1	5	1724985039628686599	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+4	242	1724985035818912825	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+242	291	1724985036056898524	src/AI_Chess_Simulator	ecca79a89826eecf
+1	5	1724987189117339685	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+6	1299	1724987189122339103	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1299	1350	1724987190415188620	src/AI_Chess_Simulator	ecca79a89826eecf
+1	5	1724987217724165080	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+6	1263	1724987217730164446	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1263	1306	1724987218986032251	src/AI_Chess_Simulator	ecca79a89826eecf
+0	5	1724987225669338682	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+5	1239	1724987225675338066	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1239	1290	1724987226908211860	src/AI_Chess_Simulator	ecca79a89826eecf
+1	5	1724987232372659118	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+1	4	1724987269799142740	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+5	1265	1724987269803142388	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1265	1314	1724987271063031729	src/AI_Chess_Simulator	ecca79a89826eecf
+1	6	1724987279146333123	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+7	1256	1724987279152332612	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1256	1298	1724987280401226406	src/AI_Chess_Simulator	ecca79a89826eecf
+1	5	1724987436910867944	/home/dongwook/CLionProjects/AI_Chess_Simulator/cmake-build-debug/CMakeFiles/cmake.verify_globs	c344cf6005da0ef7
+6	1293	1724987436915867689	src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o	8ce9275c0072b7c3
+1293	1330	1724987438202802272	src/AI_Chess_Simulator	ecca79a89826eecf

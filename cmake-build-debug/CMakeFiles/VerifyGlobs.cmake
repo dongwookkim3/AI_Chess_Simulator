@@ -5,6 +5,7 @@ cmake_policy(SET CMP0009 NEW)
 # SOURCE_FILES at src/CMakeLists.txt:1 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/*.cpp")
 set(OLD_GLOB
+  "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/Resource/Setting.cpp"
   "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -17,6 +18,7 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/home/dongwook/CLionProjects/
 set(OLD_GLOB
   "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/Include/Information.h"
   "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/Include/Library.h"
+  "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/Include/Setting.h"
   "/home/dongwook/CLionProjects/AI_Chess_Simulator/src/Include/main.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

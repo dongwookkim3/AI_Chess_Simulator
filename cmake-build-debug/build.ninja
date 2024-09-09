@@ -77,6 +77,12 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build cmake_object_order_depends_target_AI_Chess_Simulator: phony || .
 
+build src/CMakeFiles/AI_Chess_Simulator.dir/Resource/Setting.cpp.o: CXX_COMPILER__AI_Chess_Simulator_unscanned_Debug /home/dongwook/CLionProjects/AI_Chess_Simulator/src/Resource/Setting.cpp || cmake_object_order_depends_target_AI_Chess_Simulator
+  DEP_FILE = src/CMakeFiles/AI_Chess_Simulator.dir/Resource/Setting.cpp.o.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = src/CMakeFiles/AI_Chess_Simulator.dir
+  OBJECT_FILE_DIR = src/CMakeFiles/AI_Chess_Simulator.dir/Resource
+
 build src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o: CXX_COMPILER__AI_Chess_Simulator_unscanned_Debug /home/dongwook/CLionProjects/AI_Chess_Simulator/src/main.cpp || cmake_object_order_depends_target_AI_Chess_Simulator
   DEP_FILE = src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
@@ -91,7 +97,7 @@ build src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o: CXX_COMPILER__AI_Chess_S
 #############################################
 # Link the executable src/AI_Chess_Simulator
 
-build src/AI_Chess_Simulator: CXX_EXECUTABLE_LINKER__AI_Chess_Simulator_Debug src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o
+build src/AI_Chess_Simulator: CXX_EXECUTABLE_LINKER__AI_Chess_Simulator_Debug src/CMakeFiles/AI_Chess_Simulator.dir/Resource/Setting.cpp.o src/CMakeFiles/AI_Chess_Simulator.dir/main.cpp.o
   FLAGS = -g
   OBJECT_DIR = src/CMakeFiles/AI_Chess_Simulator.dir
   POST_BUILD = :

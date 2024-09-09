@@ -1,6 +1,6 @@
 #include "Include/main.h"
 
 int main() {
-    cout << "Hello, World!!";
+    Start();
     return 0;
 }

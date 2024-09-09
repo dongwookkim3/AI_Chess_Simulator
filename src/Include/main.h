@@ -5,6 +5,7 @@
 
 #include "Library.h"
 #include "Information.h"
+#include "Setting.h"
 
 using namespace std;
 
